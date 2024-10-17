@@ -136,7 +136,7 @@ const items = [
     },
     {
         id: '010',
-        image: 'card17.jpg',
+        image: 'card12.jpg',
         company: 'monsor-navey',
         item_name: 'Gray t-shirt for mensby Myntra',
         original_price: 855,
